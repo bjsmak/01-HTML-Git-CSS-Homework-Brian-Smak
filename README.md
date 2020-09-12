@@ -3,7 +3,7 @@
 An exercise designated to show how to refactor code. 
   By reviewing an already provided webpage, the HTML and CSS was inspected and restructed to ensure the following are included:
 
-  *Semantic Elements
+  *Semantic Elements<br/>
   *Links are working properly
   *Comments before each section
   *Alt attributes of img elements
